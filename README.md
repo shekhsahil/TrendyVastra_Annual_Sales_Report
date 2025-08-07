@@ -60,9 +60,4 @@ To improve future sales, *TrendyVastra* should focus marketing efforts on adult 
 * `Sample_Insights.png` – Snapshot of final insights and recommendations
 * `Dashboard_Screenshot.png` – Preview of the interactive Excel dashboard
 
-Connect with me on [LinkedIn](https://www.linkedin.com) *(insert your profile link)*
-
----
-
-Let me know if you want a version that includes sections like “Future Improvements,” or if you plan to include Jupyter notebooks or Power BI dashboards later.
 

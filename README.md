@@ -46,7 +46,7 @@ This project focuses on analyzing annual sales data for a clothing store named *
 * Women contributed \~65% of total sales
 * The age group 30–49 years (adult women) accounted for nearly 50% of purchases
 * March recorded the highest overall sales
-* Amazon was the top-performing channel with \~53% of total sales
+* Amazon was the top-performing channel with \~35% of total sales
 * Maharashtra, Karnataka, and Uttar Pradesh were the top three states by revenue
 * 92% of all orders were delivered successfully
 
